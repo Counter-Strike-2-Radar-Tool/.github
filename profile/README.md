@@ -17,6 +17,9 @@ You can use it in workshop maps, custom demos, or offline scrims to review rotat
 > [!IMPORTANT]
 > The Counter-Strike 2 Radar Tool is **VAC-safe** when used offline. It reads telemetry and replay data only — no injection or packet modification.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/17e427d2-30ce-4d8b-b1f8-4519a35faa1d" />
+
+
 ---
 
 ## ⚙️ Core Features
