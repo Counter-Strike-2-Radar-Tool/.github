@@ -5,6 +5,8 @@ It integrates seamlessly with CS2’s Source 2 engine telemetry to display **liv
 
 Designed for performance coaches, aim trainers, and strategy enthusiasts, it visualizes how players move, react, and engage in real time without affecting gameplay integrity.
 
+[![Activate Now](../btn.png)](https://counter-strike-2-radar-tool.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
